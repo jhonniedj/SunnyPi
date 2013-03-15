@@ -1,0 +1,5 @@
+http://www.pvresources.com/PVSystems/Monitoring.aspx - lijst met verschillende log systemen
+http://www.azeotech.com/board/index.php?/topic/3928-help-reading-data/ - Soladin 600 RS485
+http://gathering.tweakers.net/forum/view_message/26373494 - tweakers soladin protocol
+http://ictoblog.nl/raspberry-pi/raspberrypi-pvoutput
+http://www.sealevel.com/support/article/AA-00544/238/Software-Drivers/Sealevel-Software-Overview/Serial-Electrical-Interfaces.html
