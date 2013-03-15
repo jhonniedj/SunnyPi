@@ -12,7 +12,7 @@ SunnyPi
 <br>and is made for Mastervolt Soladin
 <br>files will be logged into a CSV file, and uploaded to PVoutput.org
 <br>
-- 1. Iso for Raspberry 8GB SD-card here: <a href="http://jonajona.nl/bin/Final SunnyPi.rar">http://jonajona.nl/bin/Final SunnyPi.rar</a>
+- 1. Iso for Raspberry 8GB SD-card here: http://jonajona.nl/bin/Final%20SunnyPi.rar
 - 2. Deploy unpacked 'Final Sunnypi.rar' with 'RPI-images\win32diskimager.zip'
 - 3. Connecting details are to be found in the 'Hardware' directory
 - 4. (Change and) Upload and Use software inside 'Software\RPI -applicatie\PVoutput_sync - Update' folder  
